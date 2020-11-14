@@ -17,9 +17,9 @@ Hi guys, I'm Thalisson Felipe. I am a Python and Javascript developer from Forta
 
 ## Technologies
 
-[![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-[![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
-[![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-[![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-[![React](https://img.shields.io/badge/-React-fff?&logo=React)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
+![React](https://img.shields.io/badge/-React-fff?&logo=React)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
